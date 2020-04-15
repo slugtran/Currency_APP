@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Currency</string>
+
+    <string-array name="items"/>
+    <string name="SinggaporDolar" />
+    <string name="EuropeEuro" />
+    <string name="ThailandBaht" />
+    <string name="UnitedStatesDollar" />
+    <string name="VietNamDong" />
+
+</resources>
